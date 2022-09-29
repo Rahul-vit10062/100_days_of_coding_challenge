@@ -261,6 +261,7 @@ public static void main(String[] args) {
                 n=n3;
             case 4:
                 System.out.println("Employee Details");
+                System.out.println("____________________________");
                 ll.display();
                 break;
             case 5:
