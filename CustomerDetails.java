@@ -260,6 +260,7 @@ public static void main(String[] args) {
                 c=c3;
                 n=n3;
             case 4:
+                System.out.println("Employee Details");
                 ll.display();
                 break;
             case 5:
